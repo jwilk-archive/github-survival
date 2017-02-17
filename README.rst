@@ -1,0 +1,48 @@
+=====================
+GitHub Survival Guide
+=====================
+
+Survival tools
+--------------
+
+* cligh_
+
+.. _cligh:
+   http://the-brannons.com/software/cligh.html
+
+* git-hub_
+
+.. _git-hub:
+   https://github.com/sociomantic-tsunami/git-hub
+
+* github-editmeta_
+
+.. _github-editmeta:
+   https://github.com/jwilk/github-editmeta
+
+* github-upload_
+
+.. _github-upload:
+   https://github.com/jwilk/github-upload
+
+* github-backup_
+
+.. _github-backup:
+   https://github.com/joeyh/github-backup
+
+* grip_
+
+.. _grip:
+   https://github.com/joeyespo/grip
+
+* trava_
+
+.. _trava:
+   https://github.com/jwilk/trava
+
+* bbi2ghi_
+
+.. _bbi2ghi:
+   https://github.com/jwilk/bbi2ghi
+
+.. vim:ts=3 sts=3 sw=3 et
