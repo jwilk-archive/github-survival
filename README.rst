@@ -30,6 +30,11 @@ Survival tools
 .. _github-backup:
    https://github.com/joeyh/github-backup
 
+* github-vanity_
+
+.. _github-vanity:
+   https://github.com/jwilk/github-vanity
+
 * grip_
 
 .. _grip:
